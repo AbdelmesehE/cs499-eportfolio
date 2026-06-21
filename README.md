@@ -1,16 +1,17 @@
 # CS 499 ePortfolio
 
-## Professional Self-Assessment
-
-[Professional Self-Assessment](Professional_Self_Assessment.docx)
-
+# Professional Self-Assessment
 
 This ePortfolio represents the culmination of my Bachelor of Science in Computer Science program. It demonstrates growth in software engineering, algorithms and data structures, databases, security, and professional communication. Through the enhancement of previous artifacts, I strengthened my ability to design, implement, and evaluate computing solutions using modern tools and best practices.
+
+📄 [View Professional Self-Assessment](Professional_Self_Assessment.docx)
 ---
 
 ## Code Review
 
-The code review video created during Milestone One is included with the final submission.
+The code review completed during Milestone One identified opportunities for improvement in software engineering, algorithms and data structures, and database design. These planned enhancements guided the work completed throughout the capstone project.
+
+🎥 Code review video included with final submission.
 
 ---
 
