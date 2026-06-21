@@ -3,7 +3,7 @@
 ## Professional Self-Assessment
 
 [Professional Self-Assessment](Professional_Self_Assessment.docx)
-
+This ePortfolio represents the culmination of my Bachelor of Science in Computer Science program. It demonstrates growth in software engineering, algorithms and data structures, databases, security, and professional communication. Through the enhancement of previous artifacts, I strengthened my ability to design, implement, and evaluate computing solutions using modern tools and best practices.
 ---
 
 ## Code Review
