@@ -14,7 +14,7 @@ This ePortfolio represents the culmination of my Bachelor of Science in Computer
 
 The code review completed during Milestone One identified opportunities for improvement in software engineering, algorithms and data structures, and database design. These planned enhancements guided the work completed throughout the capstone project.
 
-🎥 Code review video included with final submission.
+🎥 [Code Review Video](https://snhu-my.sharepoint.com/:v:/g/personal/ehab_abdelmeseh_snhu_edu/IQAu7V0Nc21MSoB-Lb2zDtnHAWJznUZHQ8vA-moGrjoorxU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=E5en7P)
 
 ---
 
