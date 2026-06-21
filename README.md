@@ -24,7 +24,7 @@ CS-340 MongoDB Dashboard Project
 Refactored dashboard with reusable functions, validation, improved maintainability, and enhanced visualization.
 
 ### Narrative
-*(Upload your Milestone Two narrative and insert the link here.)*
+[Software Design and Engineering Narrative](Software_Design_and_Engineering_Narrative.docx)
 
 ---
 
@@ -40,7 +40,7 @@ CS-340 MongoDB Dashboard Project
 Added dictionary-based lookups, summary statistics, breed ranking, and binary search functionality.
 
 ### Narrative
-*(Upload your Milestone Three narrative and insert the link here.)*
+[Algorithms and Data Structures Narrative](Algorithms_and_Data_Structures_Narrative.docx)
 
 ---
 
@@ -56,7 +56,7 @@ CS-340 MongoDB Dashboard Project
 Enhanced CRUD operations, indexing, aggregation pipelines, validation, health monitoring, logging, and connection reliability.
 
 ### Narrative
-*(Upload your Milestone Four narrative and insert the link here.)*
+[Databases Narrative](Databases_Narrative.docx)
 
 ---
 
