@@ -8,7 +8,7 @@ This ePortfolio represents the culmination of my Bachelor of Science in Computer
 
 ## Code Review
 
-- Code Review Video: *(Insert YouTube link here)*
+The code review video created during Milestone One is included with the final submission.
 
 ---
 
