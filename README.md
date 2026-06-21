@@ -3,6 +3,8 @@
 ## Professional Self-Assessment
 
 [Professional Self-Assessment](Professional_Self_Assessment.docx)
+
+
 This ePortfolio represents the culmination of my Bachelor of Science in Computer Science program. It demonstrates growth in software engineering, algorithms and data structures, databases, security, and professional communication. Through the enhancement of previous artifacts, I strengthened my ability to design, implement, and evaluate computing solutions using modern tools and best practices.
 ---
 
@@ -18,10 +20,17 @@ The code review video created during Milestone One is included with the final su
 Grazioso Salvare Animal Rescue Dashboard
 
 ### Original Artifact
-CS-340 MongoDB Dashboard Project
+[Original Dashboard Notebook](Original_Animal_Rescue_Dashboard.ipynb)
+
+[Original Dashboard Module](Original_Animal_Rescue_Dashboard.py)
 
 ### Enhanced Artifact
-Refactored dashboard with reusable functions, validation, improved maintainability, and enhanced visualization.
+
+[Enhanced Dashboard Notebook](Enhanced_Animal_Rescue_Dashboard.ipynb)
+
+[Enhanced Database Module](Enhanced_Animal_Shelter.py)
+
+Refactored dashboard with reusable functions, validation, improved maintainability, improved visualizations, and enhanced database operations.
 
 ### Narrative
 [Software Design and Engineering Narrative](Software_Design_and_Engineering_Narrative.docx)
@@ -38,6 +47,7 @@ CS-340 MongoDB Dashboard Project
 
 ### Enhanced Artifact
 Added dictionary-based lookups, summary statistics, breed ranking, and binary search functionality.
+[Enhanced Dashboard Notebook](Enhanced_Animal_Rescue_Dashboard.ipynb)
 
 ### Narrative
 [Algorithms and Data Structures Narrative](Algorithms_and_Data_Structures_Narrative.docx)
@@ -50,12 +60,10 @@ Added dictionary-based lookups, summary statistics, breed ranking, and binary se
 Grazioso Salvare Animal Rescue Dashboard
 
 ### Original Artifact
-[Original Dashboard Notebook](Original_Animal_Rescue_Dashboard.ipynb)
-
-[Original Dashboard Module](Original_Animal_Rescue_Dashboard.py)
+CS-340 MongoDB Dashboard Project
 
 ### Enhanced Artifact
-Enhanced CRUD operations, indexing, aggregation pipelines, validation, health monitoring, logging, and connection reliability.
+[Enhanced Database Module](Enhanced_Animal_Shelter.py)
 
 ### Narrative
 [Databases Narrative](Databases_Narrative.docx)
