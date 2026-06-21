@@ -50,7 +50,9 @@ Added dictionary-based lookups, summary statistics, breed ranking, and binary se
 Grazioso Salvare Animal Rescue Dashboard
 
 ### Original Artifact
-CS-340 MongoDB Dashboard Project
+[Original Dashboard Notebook](Original_Animal_Rescue_Dashboard.ipynb)
+
+[Original Dashboard Module](Original_Animal_Rescue_Dashboard.py)
 
 ### Enhanced Artifact
 Enhanced CRUD operations, indexing, aggregation pipelines, validation, health monitoring, logging, and connection reliability.
